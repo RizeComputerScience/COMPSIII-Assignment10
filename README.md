@@ -24,7 +24,7 @@ A completed `streaming_analysis.py` file should contain:
     - A DataFrame of the top 5 most streamed genres.
     - Calculated value for the amount of songs listened to by day.
     - Calculated value for the amount of songs listened to by month.
-- Code to generate a histogram using Matplotlib.
+- Code to generate a line graph, bar chart, and histogram using Matplotlib.
 
 ## Example Inputs and Outputs
 
