@@ -3,12 +3,12 @@
 Every year, millions of Spotify users eagerly await the results of their yearly Spotify Wrapped. The yearly list showcases a user's top artists, songs, genres, minutes listened, and much more.
 
 ![Spotify Wrapped](img/Wrapped.png)
-Source: Spotify
+**Source**: [Spotify](https://newsroom.spotify.com/2024-12-04/the-art-and-science-behind-spotify-wrapped/)
 
 This yearly event requires a massive amount of data analysis for each individual Spotify user. For each user Spotify needs to calculate the minutes listened, top artists, top genre, and much more! How do computer programmers perform data analysis and create visualizations for millions of users?
 
 ![Spotify ](img/Spotify.png)
-Source: Spotify Design
+**Source**: [Spotify Design](https://spotify.design/article/making-moves-designing-motion-for-2022-wrapped)
 
 **TASK**: You will perform your own Spotify Wrapped analysis using the `pandas` and `matplotlib` libraries using the personal listening history CSV that has been provided with this assignment. From the data that is stored in this CSV, you’ll generate statistical insights and data visualizations using the `pandas` and `matplotlib` libraries.
 
